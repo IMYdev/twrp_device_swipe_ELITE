@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_SWIPE_ELITE-userdebug
-add_lunch_combo omni_SWIPE_ELITE-eng
+add_lunch_combo omni_ELITE-userdebug
+add_lunch_combo omni_ELITE-eng

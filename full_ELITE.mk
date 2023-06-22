@@ -30,8 +30,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/recovery/kernel:kernel
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := SWIPE_ELITE
-PRODUCT_NAME := full_SWIPE_ELITE
+PRODUCT_DEVICE := ELITE
+PRODUCT_NAME := full_ELITE
 PRODUCT_BRAND := Swipe
 PRODUCT_MODEL := Elite Sense
 PRODUCT_MANUFACTURER := Swipe

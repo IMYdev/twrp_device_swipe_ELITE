@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE), SWIPE_ELITE)
+ifeq ($(TARGET_DEVICE), ELITE)
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 

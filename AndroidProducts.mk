@@ -15,5 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/omni_SWIPE_ELITE.mk \
-	$(LOCAL_DIR)/full_SWIPE_ELITE.mk
+	$(LOCAL_DIR)/omni_ELITE.mk \
+	$(LOCAL_DIR)/full_ELITE.mk

@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/swipe/SWIPE_ELITE
+DEVICE_PATH := device/swipe/ELITE
 
 # Architecture
 TARGET_ARCH := arm64
